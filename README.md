@@ -6,6 +6,12 @@
 
  Xray Core V1.7.5.1
 
+## ♦️UPDATE & UPGRADE VPS♦️
+
+```
+apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
+
+```
 
 ## ♦️INSTALLATION SCRIPT ( Recommended Debian 10 )♦️
 
